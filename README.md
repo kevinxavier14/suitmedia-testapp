@@ -3,4 +3,4 @@
 
 Repository contains two components:
 - source code of application, can be downloaded, recommend to open locally using Android Studio for better experience
-- application APK, can be downloaded and install in an Android device
+- application APK, can be downloaded and install on an Android device
