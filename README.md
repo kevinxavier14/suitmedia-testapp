@@ -1,4 +1,7 @@
 # suitmedia-testapp-kevinxavier
-Repository for Suitmedia's Mobile Developer Intership competency test
+## Repository for Suitmedia's Mobile Developer Intership competency test
+### made by Kevin Xavier Emil Aryade Kalsim
 
-aaaaa
+Repository contains two components:
+- aaaa
+- a
